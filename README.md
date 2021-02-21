@@ -1,2 +1,2 @@
 # Operating-Systems
-Codes for basic problems depicting concepts of Operating Systems
+Solutions for assignments given in the Operating Systems Course offered at IIT BHU.
